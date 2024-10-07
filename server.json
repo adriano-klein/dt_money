@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 5000,
+      "created_at": "2024-10-04T01:01:04.619Z"
+    },
+    {
+      "id": 2,
+      "description": "Design",
+      "type": "outcome",
+      "category": "Digital",
+      "price": 10000,
+      "created_at": "2024-10-04T01:01:04.619Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 5000,
+      "created_at": "2024-10-04T01:01:04.619Z"
+    },
+    {
+      "description": "Misto quente",
+      "price": 15,
+      "category": "Venda",
+      "type": "income",
+      "created_at": "2024-10-05T01:04:13.839Z",
+      "id": 4
+    },
+    {
+      "description": "Pedido de amostra Privado",
+      "price": 10,
+      "category": "teste",
+      "type": "income",
+      "created_at": "2024-10-05T11:21:09.027Z",
+      "id": 5
+    },
+    {
+      "description": "teste 2",
+      "price": 1,
+      "category": "venda",
+      "type": "outcome",
+      "created_at": "2024-10-05T11:21:35.190Z",
+      "id": 6
+    },
+    {
+      "description": "teste 3",
+      "price": 12,
+      "category": "dfdf",
+      "type": "outcome",
+      "created_at": "2024-10-05T11:22:29.671Z",
+      "id": 7
+    },
+    {
+      "description": "teste 4",
+      "price": 10,
+      "category": "100",
+      "type": "income",
+      "created_at": "2024-10-05T12:30:25.646Z",
+      "id": 8
+    },
+    {
+      "description": "test5",
+      "price": 12,
+      "category": "venda",
+      "type": "outcome",
+      "created_at": "2024-10-05T12:30:45.085Z",
+      "id": 9
+    }
+  ]
+}
